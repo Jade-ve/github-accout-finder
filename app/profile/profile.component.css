@@ -1,0 +1,26 @@
+.search-form {
+    padding-top: 50px;
+    
+}
+
+.search-form input {
+    background-color: rgba(0, 0, 0, 0.342);
+    color: white;
+}
+.repos {
+    margin: 3%;
+    width: 19rem;
+    height: 16rem;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+    background-color: black;
+    color: white;
+    margin-left: 5%;
+  }   
+  
+  .intro {
+      font-size: 30px;
+  }
+ .rname {
+     color: green;
+ }
